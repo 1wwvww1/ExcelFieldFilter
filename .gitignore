@@ -1,6 +1,7 @@
 # customer
 __pycache__
 .idea
+resources/*
 *.png
 *.log
 log/*
